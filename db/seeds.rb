@@ -5,3 +5,7 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+Post.create([{title: "Corona Virus Attacks Denver", description: "As the title says. Denver crumbles under the new deadly virus."}])
+Post.create([{title: "Obama becomes president again!", description: "Again, the title tells exactly what happened!" }])
+Post.create([{title: "Flatiron gets 100% hire rate!" , description: "Recent graduates of flatiron denver gets 100% employment rate following graduation."}])
